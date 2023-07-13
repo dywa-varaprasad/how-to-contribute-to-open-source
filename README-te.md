@@ -1,4 +1,4 @@
-# కొత్తగా ఓపెన్-సోర్స్ ప్రాజెక్ట్స్ కోసం కాంట్రిబ్యూట్ చేయాలనుకునే వారి కోసం రిసోర్సెస్-లిస్ట్(వనరుల జాబితా)
+# కొత్తగా ఓన్-సోర్స్ ప్రాజెక్ట్స్ కోసం కాంట్రిబ్యూట్ చేయాలనుకునే వారి కోసం రిసోర్సెస్-లిస్ట్(వనరుల జాబితా)
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
