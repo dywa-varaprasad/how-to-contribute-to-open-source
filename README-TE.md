@@ -1,4 +1,4 @@
-<!-- Do not translate this -->
+<!-- Do notranslate this -->
 <details>
 <summary>
 <strong> Read this guide in other languages </strong>
@@ -31,7 +31,7 @@
 </details>
 <!-- Do not translate this -->
 
-# Welcome Newbie Open Source Contributors!
+#  నూతన ఓపెన్ సోర్స్ కంట్రిబ్యూటర్స్ కి స్వాగతం
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
