@@ -22,6 +22,7 @@
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
         <li><a href="./README-HI.md"> हिंदी </a></li>
+        <li> <a href="./README-TE.md"> తెలుగు</a> </li>
         <li><a href="./README-FA.md"> فارسی </a></li>
         <li><a href="./README-UR.md">اردو </a></li>
         <li><a href="./README-AR.md">اللغة العربية </a></li>
@@ -37,14 +38,18 @@
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 [![Check Resources](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml/badge.svg)](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/actions/workflows/test.yml)
 
-This is a list of resources for people who are new to contributing to Open Source.
+మొదటిసారి ఓపెన్ సోర్స్ ప్రాజెక్టులకు సహకరించాలనుకునే వారికోసం వనరుల జాబితా.(రిసోర్సెస్ లిస్ట్)
+his is a list of resources for people who are new to contributing to Open Source.
 
+మీరు ఏవైనా ఇతర వనరులను కనుకొంటే దయచేసి పుల్ రిక్వెస్ట్ చేయండి.
 If you find additional resources, please create a pull request.
 
+
+ఒకవేళ మీకు సందేహాలు లేదా సలహాలు ఉంటే దయచేసి ఇష్యూ బటన్ నొక్కండి 
 If you have questions or comments, please create an issue.
 
 **Contents**
-
+****
 - [Contributing to Open Source in general](#contributing-to-open-source-in-general)
 - [Direct GitHub searches](#direct-github-searches)
 - [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
@@ -56,7 +61,7 @@ If you have questions or comments, please create an issue.
 - [License](#license)
 
 ## Contributing to Open Source in general
-
+## 
 > Articles and resources that discuss the world and culture of Open Source.
 
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG).
