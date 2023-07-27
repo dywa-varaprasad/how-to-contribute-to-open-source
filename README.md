@@ -78,10 +78,10 @@ If you have questions or comments, please create an issue.
 - ["How to get started with Open Source" by Sayan Chowdhury](https://www.hackerearth.com:443/getstarted-opensource/) - This article covers the resources for contributing to open source for beginners based on their favorite language interest.
 - ["Browse good first issues to start contributing to open source"](https://github.blog/2020-01-22-browse-good-first-issues-to-start-contributing-to-open-source/) - GitHub now helps you find good first issues to start contributing to open source.
 - ["How to Contribute to Open Source Project" by Maryna Z](https://rubygarage.org/blog/how-contribute-to-open-source-projects) - This comprehensive article is directed towards businesses (but still useful for individual contributors) where it talks about why, how, and what open-source projects to contribute to.
-- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the opensource playground. Especially designed for education and practical experience purposes.
+- ["start-here-guidelines" by Andrei](https://github.com/zero-to-mastery/start-here-guidelines) - let's Get started in the world of open source, starting in the open-source playground. Specially designed for education and practical experience purposes.
 - ["Getting Started with Open Source" by NumFocus](https://github.com/numfocus/getting-started-with-open-source) - a GitHub repo that helps contributors overcome barriers to entry in open-source.
-- ["Opensoure-4-everyone" by Chryz-hub](https://github.com/chryz-hub/opensource-4-everyone) - A repository on everything related to open source. This is a project to help with GitHub membership visibility, practice with basic and advance git commands, getting started with open source, and more.
-- ["Open Advice"](http://open-advice.org/) - Knowledge collection from a wide variety of Free Software projects. It answers the question what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.
+- ["Opensoure-4-everyone" by Chryz-hub](https://github.com/chryz-hub/opensource-4-everyone) - A repository on everything related to open source. This is a project to help with GitHub membership visibility, practice with basic and advanced Git commands, getting started with open source, and more.
+- ["Open Advice"](http://open-advice.org/) - Knowledge collection from a wide variety of Free Software projects. It answers the question of what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.
 - ["GitHub Skills"](https://skills.github.com) - Level up your skills with GitHub Skills. Our friendly bot will take you through a series of fun, practical projects to learn the skills you need in no time—and share helpful feedback along the way.
 - ["Ten simple rules for helping newcomers become contributors to open projects"](https://doi.org/10.1371/journal.pcbi.1007296) - This article covers rules based on studies of many communities and experiences of members, leaders, and observers.
 - ["Step-by-Step guide to contributing on GitHub"](https://www.dataschool.io/how-to-contribute-on-github/) - a step-by-step guide with supporting visuals and links regarding the whole process of contributing to an open source project.
@@ -184,25 +184,25 @@ If you have questions or comments, please create an issue.
 - [The Architecture of Open Source Applications](https://www.aosabook.org/en/index.html) - The authors of twenty-four open source applications explain how their software is structured, and why. From web servers and compilers to health record management systems, they are covered here to help you become a better developer.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
+- [Open Sources 2.0: The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
 - [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
 
 ## Open Source contribution initiatives
 
-> List of initiatives that aggregate beginner friendly issues to work on or seasonal events.
+> List of initiatives that aggregate beginner-friendly issues to work on or seasonal events.
 
 - [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues.
 - [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
 - [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
-- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and let's you save projects and issues for later.
-- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable in using GitHub.
+- [Ovio](https://ovio.org) - A platform with a curated selection of contributor-friendly projects. It has a [powerful issue search tool](https://ovio.org/issues) and lets you save projects and issues for later.
+- [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) - This is a tutorial to help first-time contributors to participate in a simple and easy project and get comfortable with using GitHub.
 - [Open Source Welcome Committee](https://www.oswc.is/) - The Open Source Welcome Committee (OSWC) helps newcomers join the extraordinary world of Open Source. Come submit your open-source projects with us!
 
 ## Open Source programs to participate in
 
-> A program, internship, or fellowship hosted by a community to help match beginning contributors with mentors and resources to contribute to open source software projects.
+> A program, internship, or fellowship hosted by a community to help match beginning contributors with mentors and resources to contribute to Open-Source software projects.
 
 - [All Linux Foundation (LF) Mentorships](https://mentorship.lfx.linuxfoundation.org/#projects_all)
 - [Beginner friendly Open Source programs with their timelines](https://github.com/arpit456jain/Open-Source-Programs)
@@ -212,17 +212,17 @@ If you have questions or comments, please create an issue.
 - [Google Summer of Code](https://summerofcode.withgoogle.com/) - An annually run paid program by Google focused on bringing more student developers into open-source software development.
 - [Girlscript Summer of Code](https://gssoc.girlscript.tech/) - A three-month-long Open-Source Program conducted every summer by the Girlscript Foundation. With constant efforts, participants contribute to numerous projects under the extreme guidance of skilled mentors over these months. With such exposure, students begin to contribute to real-world projects from the comfort of their homes.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com)
-- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - If you’re into the blockchain, this is for you. You can contribute to Hyperledger. This mentorship program allows you to get practical exposure to Hyperledger open source development.You will be allotted mentors who are quite active in the Hyperledger developers community.
+- [Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN) - If you’re into the blockchain, this is for you. You can contribute to Hyperledger. This mentorship program allows you to get practical exposure to Hyperledger Open-Source development. You will be allotted mentors who are quite active in the Hyperledger developers community.
 - [LF Networking Mentorship](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
 - [Microsoft Reinforcement Learning](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 - [Major League Hacking (MLH) Fellowship](https://fellowship.mlh.io/) - A remote internship alternative for aspiring technologists where they build, or contribute to open-source projects.
 - [Open Summer of Code](https://osoc.be/students)
-- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Open Mainframe Project also has its own open-source program and the mentees will be able to expand their knowledge on the mainframe technology
+- [Open Mainframe](https://www.openmainframeproject.org/all-projects/mentorship-program) - Open Mainframe Project also has its own open-source program and the mentees will be able to expand their knowledge of the mainframe technology
 - [Outreachy](https://www.outreachy.org)
 - [Processing Foundation Internship](https://processingfoundation.org/fellowships/)
-- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - A global fellowship program for women and non-binary coders where they work on existing open-source projects and expand their skillset.
+- [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - A global fellowship program for women and non-binary coders where they work on existing open-source projects and expand their skill set.
 - [Redox OS Summer of Code](https://www.redox-os.org/rsoc/) - The Redox OS Summer of Code is the primary use of donations to the Redox OS project. Students are selected who have already demonstrated a desire and ability to contribute to Redox OS
-- [Social Summer of Code](https://ssoc.devfolio.co/) - Social foundation offers this two-month long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
+- [Social Summer of Code](https://ssoc.devfolio.co/) - Social Foundation offers this two-month-long summer program for students to learn about the open-source culture and get involved in the community. Participants contribute to real-life projects under the guidance of experienced mentors.
 - [Season of KDE](https://season.kde.org/) - The Season of KDE, hosted by the KDE community, is an outreach program for all individuals across the world. KDE is an international free software community that develops free and open-source software and you can contribute to KDE through the Season of KDE program
 
 ## License
