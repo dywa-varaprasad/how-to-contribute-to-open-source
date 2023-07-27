@@ -154,7 +154,7 @@ If you have questions or comments, please create an issue.
 
 - [Video tutorial for Git and Github by Harvard University](https://www.youtube.com/watch?v=NcoBAfJ6l2Q) - Tutorial by Harvard University, part of their CS50 Web Development course on understanding Git and GitHub and working with Git commands.
 - [Think Like (a) Git](https://think-like-a-git.net/) - Git introduction for "advanced beginners", but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Learn how to set up Git locally and set up authentication, along with next steps on your learning journey.
+- [Quickstart - Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) - Learn how to set up Git locally and set up authentication, along with the next steps on your learning journey.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
 - [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - various tutorials on using `git`.
@@ -163,7 +163,7 @@ If you have questions or comments, please create an issue.
 - [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
 - [Quickstart - GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources) - Git and GitHub learning resources.
 - [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
+- [Git-it](https://github.com/jlord/git-it-electron) - Step-by-step Git tutorial desktop app.
 - [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
 - [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
 - [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
@@ -192,7 +192,7 @@ If you have questions or comments, please create an issue.
 > List of initiatives that aggregate beginner-friendly issues to work on or seasonal events.
 
 - [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues.
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
+- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and the opportunity to make a contribution to the repository itself.
 - [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
 - [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
